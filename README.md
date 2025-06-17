@@ -1,0 +1,2 @@
+# nixlos
+nixlos for everyone
